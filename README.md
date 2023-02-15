@@ -14,3 +14,5 @@ selagi inputan diminta untuk data mahasiswa, juga lansung dicek panjang stringny
 
 nilai string terpanjang tadi dipakai dalam proses menampilkan daftar yang berbentuk tabel sehingga data ditampilkan terlihat lebih rapi
 
+1. Hasil dengan Java
+![Hasil](https://user-images.githubusercontent.com/100481579/218934546-b4f5bd6d-862e-4816-b703-5f54087f76ea.png)
