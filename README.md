@@ -6,7 +6,7 @@ Program pada tugas ini ditulis dalam bahasa pemrograman Java. Program ini mengim
 
 Terdapat tiga class, yaitu class Human, CivitasAkademik, dan Mahasiswa. Class Human adalah class dasar yang memiliki tiga properti yaitu NIK, nama, dan gender. Class CivitasAkademik merupakan turunan dari class Human yang memiliki dua properti tambahan yaitu universitas dan email. Sedangkan class Mahasiswa merupakan turunan dari class CivitasAkademik yang memiliki empat properti tambahan yaitu NIM, fakultas, studiProgram, dan fotoProfil.
 
-![image](https://user-images.githubusercontent.com/100481579/219844511-f4f76ea7-1212-44cd-b953-d2529a1121ea.png)
+![Diagram Tanpa Judul drawio](https://user-images.githubusercontent.com/100481579/220277926-208ba112-8624-4a10-89f9-e65d20cd382d.png)
 
 inputan pertama meminta integer banyak jumlah mahasiswa yang ingin ditambahkan ke daftar. Program ini menerima input dari pengguna berupa banyaknya mahasiswa yang ingin didaftarkan dan data diri mahasiswa seperti NIM, nama, jenis kelamin, fakultas, prodi, asal universitas, dan email edu. Kemudian program akan menampilkan data mahasiswa yang didaftarkan dalam bentuk tabel dengan tampilan yang rapi menggunakan kelas Tabel.
 
